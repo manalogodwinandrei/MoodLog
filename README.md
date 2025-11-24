@@ -63,9 +63,9 @@ First Run
 •	Press Enter at the welcome screen to access the main menu
 
 ## Sample Output
-![image alt](<img width="1071" height="281" alt="Screenshot 2025-11-21 224545" src="https://github.com/user-attachments/assets/156f9f98-c61b-4bb0-b64f-ef5d872ba67d" />
-)
+
 ### Welcome Page
+![Alt text](images/welcomePage.png)
 ### Main Menu
 ### Logging a Mood (Option 1)
 ### Viewing Mood History (Option 2)
