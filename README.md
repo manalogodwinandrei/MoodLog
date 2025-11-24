@@ -65,7 +65,7 @@ First Run
 ## Sample Output
 
 ### Welcome Page
-![Alt text](images/welcomePage.png)
+![Alt text](MoodLog/images/welcomePage.png)
 ### Main Menu
 ### Logging a Mood (Option 1)
 ### Viewing Mood History (Option 2)
