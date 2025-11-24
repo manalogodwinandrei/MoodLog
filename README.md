@@ -67,11 +67,16 @@ First Run
 ### Welcome Page
 ![Alt text](MoodLog/images/welcomePage.png)
 ### Main Menu
+![Alt text](MoodLog/images/mainMenu.png)
 ### Logging a Mood (Option 1)
+![Alt text](MoodLog/images/logMood.png)
+![Alt text](MoodLog/images/logMood2.png)
 ### Viewing Mood History (Option 2)
+![Alt text](MoodLog/images/viewMood.png)
 ### Viewing Statistics (Option 3)
+![Alt text](MoodLog/images/viewStatistics.png)
 ### Deleting a Log
-
+![Alt text](MoodLog/images/deleteLog.png)
   
 ## Authors
 
