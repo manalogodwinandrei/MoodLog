@@ -76,8 +76,8 @@ First Run
 | Name                       | Role              | Contribution                                                                                           |
 |----------------------------|-------------------|--------------------------------------------------------------------------------------------------------|
 | Manalo, Godwin Andrei D.  | Lead Programmer   | Developed key features, improved user-friendliness, tested the entire app, and ensured reliable error handling and input validation. |
-| Magadia, Lovely           | Initial Developer | Developed the foundation of the application.                                                           |
-| Montalbo, Bianca          | Initial Developer | Developed the foundation of the application.                                                           |
+| Magadia, Lovely Jeann A.  | Initial Developer | Developed the foundation of the application.                                                           |
+| Montalbo, Bianca A.       | Initial Developer | Developed the foundation of the application.                                                           |
 | Manuel, Dennise May P.    | System Designer   | Develops the structure and specifications of a system based on user requirements.                      |
 
 
