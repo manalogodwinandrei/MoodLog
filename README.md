@@ -58,7 +58,7 @@ MoodLog is a console-based Java application designed to help users monitor and a
 •	Command-line terminal with ANSI color support (recommended)
 ### Execution Steps
 •	Run the compiled program MoodLogApp.java
-First Run  
+### First Run  
 •	The program will create a mood_logs.txt file in the current directory to store mood entries  
 •	Press Enter at the welcome screen to access the main menu
 
